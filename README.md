@@ -2,29 +2,17 @@
 Uma série de exercícios de Javascript para aprimorar minhas habilidades.
 
 ## Desafios
-1- Escreva um programa em Javascript e crie uma variável chamada "nomeDoCarro" e atribua-a um valor "Fusca".
+1. Escreva um programa em Javascript e crie uma variável chamada "nomeDoCarro" e atribua-a um valor "Fusca".
 
-2- Escreva um programa em Javascript em que o usuário informe o seu nome e exiba a mensagem "Olá, [NomeDoUsuario]".
+2. Escreva um programa em Javascript em que o usuário informe o seu nome e exiba a mensagem "Olá, [NomeDoUsuario]".
 
-3- Escreva um programa em Javascript em que o usuário informe o seu nome e em seguida o programa perguntará a idade do usuário. Agora o programa deve exibir a mensagem "Olá, [NomeDoUsuario], sua idade é [idade]".
+3. Escreva um programa em Javascript em que o usuário informe o seu nome e em seguida o programa perguntará a idade do usuário. Agora o programa deve exibir a mensagem "Olá, [NomeDoUsuario], sua idade é [idade]".
 
-4- Considerando a figura presente na atividade, escreva um programa para cada forma que calcule e exiba em tela cada uma de suas respectivas áreas. O usuário irá informar os valores de cada variável. Crie um arquivo para cada fórmula e poste os  arquivos no GitHub. Link do repositório abaixo. Continuação nas próximas telas.
+4. Considerando a figura presente na atividade, escreva um programa para cada forma que calcule e exiba em tela cada uma de suas respectivas áreas. O usuário irá informar os valores de cada variável. Crie um arquivo para cada fórmula e poste os  arquivos no GitHub. Link do repositório abaixo. Continuação nas próximas telas.
 
-5- Faça um algoritmo que calcule a área de um:
+5. Faça um algoritmo que calcule a área de um:
 
-Retângulo
-
-Quadrado
-
-Losango
-
-Trapézio
-
-Paralelogramo
-
-Triângulo
-
-Círculo
+Retângulo | Quadrado | Losango | Trapézio | Paralelogramo | Triângulo | Círculo
 
 [Ver soluções](https://github.com/DiSouzaDev/Hora_de_Codar/blob/main/Hora_de_Codar/script.js)
 
